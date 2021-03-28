@@ -17,7 +17,8 @@
                     "description": "rujah use Presence to win the hearts of the crowd, turn a threatening mob against itself, or send a dangerous opponent fleeing into the night. Brujah intellectuals prefer feeding with Presence to convince vessels to give up their blood voluntarily. Other clan members use Presence to terrify their prey, as it apparently adds “an exquisite, bold taste” and fuels the less subtle powers of their curse."
                 }
             ],
-            "bane": "The Blood of the Brujah simmers with barely contained rage, exploding at the slightest provocation. Subtract dice equal to the Bane Severity of the Brujah from any roll to resist fury frenzy. This cannot take the pool below one die."
+            "bane": "The Blood of the Brujah simmers with barely contained rage, exploding at the slightest provocation. Subtract dice equal to the Bane Severity of the Brujah from any roll to resist fury frenzy. This cannot take the pool below one die.",
+            "emblem": ""
         },
         {
             "name": "Gangrel",
@@ -36,7 +37,8 @@
                     "description": "Straddling the line between vampirism and shapeshifting, the Discipline allows a Gangrel to take on the physical properties of another creature, or in other ways change their physical shape. Gangrel who feed as animals often consider this the tru- est, or at least the best, of kills."
                 }
             ],
-            "bane": "In frenzy, Gangrel gain one or more animal features: a physical trait, a smell, or a behavioral tic. These features last for one more night afterward, lingering like a hango- ver following debauchery. Each feature reduces one Attribute by 1 point. The number of features a Gangrel manifests equals their Bane Severity."
+            "bane": "In frenzy, Gangrel gain one or more animal features: a physical trait, a smell, or a behavioral tic. These features last for one more night afterward, lingering like a hango- ver following debauchery. Each feature reduces one Attribute by 1 point. The number of features a Gangrel manifests equals their Bane Severity.",
+            "emblem": ""
         },
         {
             "name": "Malkavians",
@@ -55,7 +57,8 @@
                     "description": "The Malkavians do not advertise their use of Obfuscate, conveniently allowing many Kindred to forget they even have access to this Discipline. What they use it for differs vastly. While some Malkavians might want to observe the court from secluded corners or play tricks on their prince, others secrete themselves in the houses, wards, and care homes of the kine, watching the sleeping faces before discreetly feeding."
                 }
             ],
-            "bane": "Afflicted by their lineage, all Malkavians are cursed with at least one type of mental derangement. Depending on their history and the state of their mind at death, they may experience delusions, visions of terrible clarity, or something entirely different. When the Malkavian suffers a Bestial Failure or a Compulsion, their curse comes to the fore. Suffer a penalty equal to your character’s Bane Severity to one category of dice pools for the entire scene. This is in addition to any penalties incurred by Compulsions."
+            "bane": "Afflicted by their lineage, all Malkavians are cursed with at least one type of mental derangement. Depending on their history and the state of their mind at death, they may experience delusions, visions of terrible clarity, or something entirely different. When the Malkavian suffers a Bestial Failure or a Compulsion, their curse comes to the fore. Suffer a penalty equal to your character’s Bane Severity to one category of dice pools for the entire scene. This is in addition to any penalties incurred by Compulsions.",
+            "emblem": ""
         },
         {
             "name": "Nosferatu",
@@ -74,7 +77,8 @@
                     "description": "Nosferatu use Potence to rapidly neutralize foes. The Nosferatu understand the merit of hit and run, incapacitating a vessel before feeding and fleeing, or breaking the Anarch Baron’s head before vaulting away from their hangout. Many Sewer Rats hesitate to use Potence before the kine, as its unfiltered might opposes their deceptions."
                 }
             ],
-            "bane": "Hideous and vile, all Nosferatu count as having the Repulsive Flaw (-2) and can never increase their rating in the Looks Merit. In addition, any attempt to disguise themselves as non-deformed incur a penalty to the dice pool equal to the character’s Bane Severity."
+            "bane": "Hideous and vile, all Nosferatu count as having the Repulsive Flaw (-2) and can never increase their rating in the Looks Merit. In addition, any attempt to disguise themselves as non-deformed incur a penalty to the dice pool equal to the character’s Bane Severity.",
+            "emblem": ""
         },
         {
             "name": "Toreador",
@@ -93,7 +97,8 @@
                     "description": "The Toreador master the Discipline of Presence, often using it in concert with Auspex to manipulate the emotions of Kindred and kine. Presence can guarantee an appreciative audience or cause the failure of another artist. Some Toreador will use the Discipline to indulge in carnal pleasures with an unnaturally enthusiastic partner or to lure a vessel into their arms and under their fangs. The members of the clan adore willing vessels, even if the willingness is a supernaturally induced façade."
                 }
             ],
-            "bane": "Toreador desire beauty so intensely that they suffer in its absence. While your character finds itself in less than beautiful surroundings, lose the equivalent of their Bane Severity in dice from dice pools to use Disciplines. This obsession with aesthetics also causes divas to lose themselves in moments of beauty and a bestial failure often results in a rapt trance."
+            "bane": "Toreador desire beauty so intensely that they suffer in its absence. While your character finds itself in less than beautiful surroundings, lose the equivalent of their Bane Severity in dice from dice pools to use Disciplines. This obsession with aesthetics also causes divas to lose themselves in moments of beauty and a bestial failure often results in a rapt trance.",
+            "emblem": ""
         },
         {
             "name": "Tremere",
@@ -112,7 +117,8 @@
                     "description": "The Tremere will do almost anything for the sake of knowledge and influence, and Dominate is the Discipline that lets them get away with it. Thievery, backstabbing, and the unjust murder of a clan member’s ghoul are all made easier by the ability to control a mortal’s mind and body. When attempting to feed, a Tremere will show little compunction against using the Discipline to force a mortal into baring their throat."
                 }
             ],
-            "bane": "Once the clan was defined by a rigid hierarchy of Blood Bonds reaching from the top to the bottom of the Pyramid. But after the fall of Vienna, their Blood has recoiled and aborted all such connections. Tremere vitae can no longer Blood Bond other Kindred, though they themselves can be Bound by Kindred from other clans. A Tremere can still bind mortals and ghouls, though the corrupted vitae must be drunk an additional number of times equal to the vampire’s Bane Severity for the bond to form."
+            "bane": "Once the clan was defined by a rigid hierarchy of Blood Bonds reaching from the top to the bottom of the Pyramid. But after the fall of Vienna, their Blood has recoiled and aborted all such connections. Tremere vitae can no longer Blood Bond other Kindred, though they themselves can be Bound by Kindred from other clans. A Tremere can still bind mortals and ghouls, though the corrupted vitae must be drunk an additional number of times equal to the vampire’s Bane Severity for the bond to form.",
+            "emblem": ""
         },
         {
             "name": "Venture",
@@ -131,7 +137,8 @@
                     "description": "The Ventrue seek to tame the court and build the love and devotion of others toward their rule, and Presence is a helpful tool. The Discipline is also used by the Ventrue who wants others to see how easy they acquire vessels. The clan values conservation of time and resources, and Presence allows a hungry blue blood to be efficient when luring their prey."
                 }
             ],
-            "bane": "The Ventrue are in possession of rarefied palates. When a Ventrue drinks blood from any mortal outside their preference, a profound exertion of will is required or the blood taken surges back up as scarlet vomit. Preferences vary greatly. With a Resolve + Awareness test (Difficulty 4 or more) your character can sense if a mortal possesses the blood they require. If you want your character to feed from anything but their preferred victim, you must spend Willpower points equal to the character’s Bane Severity."
+            "bane": "The Ventrue are in possession of rarefied palates. When a Ventrue drinks blood from any mortal outside their preference, a profound exertion of will is required or the blood taken surges back up as scarlet vomit. Preferences vary greatly. With a Resolve + Awareness test (Difficulty 4 or more) your character can sense if a mortal possesses the blood they require. If you want your character to feed from anything but their preferred victim, you must spend Willpower points equal to the character’s Bane Severity.",
+            "emblem": ""
         },
         {
             "name": "Caitiff",
@@ -182,7 +189,8 @@
                     "description": "Protean is a Discipline that gives vampires the ability to change form, from growing feral claws to evaporating into a cloud of mist."
                 }
             ],
-            "bane": "Untouched by the Antediluvians, the Caitiff share no common bane. Caitiff characters begin with the Suspect Flaw and you may not purchase positive Status for them during character creation. The Storyteller may always impose a one or two dice penalty on Social tests against fellow Kindred who know they are Caitiff, regardless of their eventual Status."
+            "bane": "Untouched by the Antediluvians, the Caitiff share no common bane. Caitiff characters begin with the Suspect Flaw and you may not purchase positive Status for them during character creation. The Storyteller may always impose a one or two dice penalty on Social tests against fellow Kindred who know they are Caitiff, regardless of their eventual Status.",
+            "emblem": ""
         },
         {
             "name": "Thin-Blooded",
@@ -193,7 +201,8 @@
                     "description": "This potentially allows them to taste the Disciplines of other Kindred, and to get more than a taste if they can find the vitae to fuel those workings. Additionally, whenever a thin-blood feeds they gain one dot in one Discipline associated with the Resonance of the blood consumed, together with one level one power in that discipline. If the Resonance is Intense or stronger, they gain an additional dot together with a second power. No additional powers can be gained in this way nor can the rating increase with experience. This Discipline lasts until Hunger reaches 5 or the next feeding."
                 }
             ],
-            "bane": "N/a"
+            "bane": "N/a",
+            "emblem": ""
         }
     ]
 }
