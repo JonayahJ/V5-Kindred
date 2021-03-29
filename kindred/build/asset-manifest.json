@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/JonayahJ/V5-Kindredstatic/js/main.2d4cbdcc.chunk.js",
+    "main.js.map": "/JonayahJ/V5-Kindredstatic/js/main.2d4cbdcc.chunk.js.map",
+    "runtime-main.js": "/JonayahJ/V5-Kindredstatic/js/runtime-main.4f96b0d9.js",
+    "runtime-main.js.map": "/JonayahJ/V5-Kindredstatic/js/runtime-main.4f96b0d9.js.map",
+    "static/css/2.8bb408a3.chunk.css": "/JonayahJ/V5-Kindredstatic/css/2.8bb408a3.chunk.css",
+    "static/js/2.ee2476cc.chunk.js": "/JonayahJ/V5-Kindredstatic/js/2.ee2476cc.chunk.js",
+    "static/js/2.ee2476cc.chunk.js.map": "/JonayahJ/V5-Kindredstatic/js/2.ee2476cc.chunk.js.map",
+    "index.html": "/JonayahJ/V5-Kindredindex.html",
+    "static/css/2.8bb408a3.chunk.css.map": "/JonayahJ/V5-Kindredstatic/css/2.8bb408a3.chunk.css.map",
+    "static/js/2.ee2476cc.chunk.js.LICENSE.txt": "/JonayahJ/V5-Kindredstatic/js/2.ee2476cc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/JonayahJ/V5-Kindredstatic/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f96b0d9.js",
+    "static/css/2.8bb408a3.chunk.css",
+    "static/js/2.ee2476cc.chunk.js",
+    "static/js/main.2d4cbdcc.chunk.js"
+  ]
+}
